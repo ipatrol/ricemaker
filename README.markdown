@@ -1,0 +1,1 @@
+Note, though presumed to be free and open source, the actual license is contingent on nanotube/ricemaker#1 once responded to. Until then, you agree to _whatever_ license is determined there, so until then, **use at your own risk**.
